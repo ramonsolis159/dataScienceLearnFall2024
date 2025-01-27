@@ -1,0 +1,185 @@
+﻿tem,Category,Refrigeration Required,Weight (lbs),Price,Country of Origin,Manufacturer
+Macadamia Nuts,Miscellaneous,No,1,$7.00 ,United States,Nut Co.
+Brussels Sprouts,Fruits and Vegetables,Yes,1,$2.00 ,Colombia,Veggie Co.
+Coffee,Beverages,No,1,$5.00 ,Brazil,Beverage Co.
+Maple Syrup,Snacks and Sweets,Yes,1,$4.00 ,Canada,Snacks Co.
+Flaxseed,Miscellaneous,No,1,$4.00 ,Canada,Seed Co.
+Tofu,Miscellaneous,Yes,1,$3.00 ,United States,
+Bok Choy,Fruits and Vegetables,Yes,1,$1.20 ,United States,Veggie Co.
+Cabbage,Fruits and Vegetables,Yes,1,$1.00 ,United States,Veggie Co.
+Chives,Fruits and Vegetables,Yes,0.1,$1.00 ,United States,Herb Co.
+Garlic,Fruits and Vegetables,No,0.25,$1.00 ,United States,Veggie Co.
+Ginger,Fruits and Vegetables,No,0.1,$1.00 ,United States,Veggie Co.
+Mandarin Oranges,Fruits and Vegetables,Yes,1,$2.00 ,United States,Fruit Co.
+Rice Vinegar,Condiments and Spices,No,1,$3.00 ,United States,Condiment Co.
+Soy Sauce,Condiments and Spices,No,1,$3.00 ,United States,Condiment Co.
+Pineapple,Fruits and Vegetables,Yes,2,$3.00 ,United States,Fruit Co.
+Banana,Fruits and Vegetables,No,0.3,$0.40 ,Ecuador,Banana Co.
+Cheese,Dairy and Eggs,Yes,1,$3.50 ,United States,Dairy Co.
+Baguette,Bakery and Grains,No,0.5,$2.00 ,United States,Bakery Co.
+Champagne,Beverages,Yes,3,$20.00 ,France,Beverage Co.
+Croissants,Bakery and Grains,Yes,0.1,$1.50 ,United States,Bakery Co.
+Shallots,Fruits and Vegetables,Yes,1,$2.00 ,United States,Veggie Co.
+Tarragon,Condiments and Spices,No,0.1,$2.00 ,United States,Herb Co.
+White Wine,Beverages,Yes,3,$10.00 ,United States,Beverage Co.
+Sausages,Meat and Seafood,Yes,1,$4.00 ,United States,Meat Co.
+Gummy Bears,Snacks and Sweets,No,0.25,$1.50 ,United States,Snacks Co.
+Pretzels,Snacks and Sweets,No,0.5,$2.00 ,United States,Snacks Co.
+Yogurt,Dairy and Eggs,Yes,0.5,$1.00 ,United States,Dairy Co.
+Feta Cheese,Dairy and Eggs,Yes,1,$4.00 ,United States,Dairy Co.
+Olive Oil,Condiments and Spices,No,1,$6.00 ,United States,Condiment Co.
+Olives,Condiments and Spices,Yes,1,$3.00 ,United States,Condiment Co.
+Oregano,Condiments and Spices,No,0.1,$1.00 ,United States,Herb Co.
+Rice,Bakery and Grains,No,1,$1.00 ,United States,Rice Co.
+Cashews,Miscellaneous,No,1,$5.00 ,United States,Nut Co.
+Lentils,Canned and Packaged Goods,No,1,$2.00 ,United States,Bean Co.
+Naan Bread,Bakery and Grains,Yes,1,$2.50 ,United States,Bakery Co.
+Sesame Seeds,Condiments and Spices,No,1,$3.00 ,United States,Seed Co.
+Pasta,Bakery and Grains,No,1,$1.50 ,United States,Pasta Co.
+Basil,Fruits and Vegetables,Yes,0.25,$1.00 ,United States,Herb Co.
+Lasagna,Frozen Foods,Yes,1.5,$3.50 ,United States,Frozen Co.
+Nutella,Snacks and Sweets,No,1,$5.00 ,United States,Snacks Co.
+Pizza,Frozen Foods,Yes,1,$5.00 ,United States,Frozen Co.
+Prosciutto,Meat and Seafood,Yes,1,$5.00 ,United States,Meat Co.
+Spaghetti,Bakery and Grains,No,1,$1.50 ,United States,Pasta Co.
+Whole Wheat Pasta,Bakery and Grains,No,1,$1.50 ,United States,Pasta Co.
+Ramen Noodles,Canned and Packaged Goods,No,0.5,$1.00 ,United States,Noodle Co.
+Shirataki Noodles,Canned and Packaged Goods,Yes,0.5,$2.50 ,United States,Noodle Co.
+Sushi Rice,Canned and Packaged Goods,No,1,$3.00 ,United States,Rice Co.
+Vanilla Extract,Condiments and Spices,No,1,$5.00 ,Madagascar,Condiment Co.
+Rosemary,Condiments and Spices,Yes,0.1,$1.50 ,United States,Herb Co.
+Tomatoes,Fruits and Vegetables,No,1,$1.20 ,Mexico,Veggie Co.
+Avocado,Fruits and Vegetables,Yes,0.25,$1.50 ,Mexico,Fruit Co.
+Lime,Fruits and Vegetables,No,0.1,$0.30 ,Mexico,Citrus Farms
+Mango,Fruits and Vegetables,Yes,0.5,$1.50 ,Mexico,Fruit Co.
+Guacamole,Snacks and Sweets,Yes,0.5,$3.00 ,Mexico,Snacks Co.
+Jalapeno Peppers,Fruits and Vegetables,Yes,1,$1.50 ,Mexico,Veggie Co.
+Papaya,Fruits and Vegetables,Yes,1,$2.50 ,Mexico,Fruit Co.
+Pumpkin Seeds,Snacks and Sweets,No,1,$4.00 ,Mexico,Nut Co.
+Salsa,Condiments and Spices,Yes,1,$3.00 ,United States,Condiment Co.
+Taco Shells,Bakery and Grains,No,0.5,$1.50 ,United States,Bakery Co.
+Tortillas,Bakery and Grains,Yes,1,$2.00 ,United States,Bakery Co.
+Hummus,Snacks and Sweets,Yes,1,$3.00 ,United States,Snacks Co.
+Pita Bread,Bakery and Grains,Yes,1,$2.00 ,United States,Bakery Co.
+Tahini,Condiments and Spices,No,1,$4.00 ,United States,Condiment Co.
+Kiwi,Fruits and Vegetables,Yes,0.2,$0.70 ,United States,Fruit Co.
+Lamb,Meat and Seafood,Yes,1,$8.00 ,United States,Meat Co.
+Salmon,Meat and Seafood,Yes,1,$7.00 ,United States,Seafood Co.
+Mackerel,Meat and Seafood,Yes,1,$5.00 ,Norway,Seafood Co.
+Quinoa,Bakery and Grains,No,1,$4.00 ,Peru,Bakery Co.
+Bagels,Bakery and Grains,Yes,1.5,$2.50 ,United States,Bakery Co.
+Sardines,Canned and Packaged Goods,Yes,0.5,$2.50 ,Portugal,Seafood Co.
+Dates,Miscellaneous,Yes,1,$4.00 ,United States,Fruit Co.
+Chocolate,Snacks and Sweets,No,0.25,$2.50 ,United States,Snacks Co.
+Swiss Cheese,Dairy and Eggs,Yes,1,$4.00 ,United States,Dairy Co.
+Coconut Milk,Canned and Packaged Goods,Yes,1,$2.00 ,United States,Beverage Co.
+Fig,Fruits and Vegetables,Yes,0.1,$1.00 ,United States,Fruit Co.
+Hazelnuts,Miscellaneous,No,1,$6.00 ,United States,Nut Co.
+Apple,Fruits and Vegetables,No,0.25,$0.50 ,United States,Apple Farms
+Milk,Dairy and Eggs,Yes,8.6,$3.00 ,United States,Dairy Co.
+Eggs,Dairy and Eggs,Yes,1.5,$2.50 ,United States,Eggcellent Farms
+Bread,Bakery and Grains,No,1,$2.00 ,United States,Bread Co.
+Chicken Breast,Meat and Seafood,Yes,1,$4.00 ,United States,Poultry Farms
+Carrots,Fruits and Vegetables,No,1,$1.00 ,United States,Veggie Co.
+Potatoes,Fruits and Vegetables,No,1,$1.50 ,United States,Potato Farms
+Orange,Fruits and Vegetables,No,0.4,$0.60 ,United States,Citrus Farms
+Broccoli,Fruits and Vegetables,Yes,1,$1.80 ,United States,Veggie Co.
+Bran Flakes,Bakery and Grains,No,0.75,$3.00 ,United States,Cereal Co.
+Spinach,Fruits and Vegetables,Yes,0.5,$1.20 ,United States,Veggie Co.
+Lettuce,Fruits and Vegetables,Yes,0.5,$1.00 ,United States,Veggie Co.
+Ground Beef,Meat and Seafood,Yes,1,$5.00 ,United States,Meat Co.
+Onions,Fruits and Vegetables,No,1,$0.80 ,United States,Veggie Co.
+Applesauce,Miscellaneous,Yes,1,$2.00 ,United States,Snacks Co.
+Bacon,Meat and Seafood,Yes,1,$4.00 ,United States,Meat Co.
+Blueberries,Fruits and Vegetables,Yes,0.5,$3.00 ,United States,Fruit Co.
+Butter,Dairy and Eggs,Yes,1,$2.00 ,United States,Dairy Co.
+Celery,Fruits and Vegetables,Yes,1,$1.00 ,United States,Veggie Co.
+Cherries,Fruits and Vegetables,Yes,1,$4.00 ,United States,Fruit Co.
+Corn,Fruits and Vegetables,Yes,1,$1.50 ,United States,Veggie Co.
+Cranberries,Fruits and Vegetables,Yes,1,$2.50 ,United States,Fruit Co.
+Cucumber,Fruits and Vegetables,Yes,1,$0.80 ,United States,Veggie Co.
+Grapefruit,Fruits and Vegetables,Yes,1,$1.00 ,United States,Citrus Farms
+Grapes,Fruits and Vegetables,Yes,1,$2.00 ,United States,Fruit Co.
+Ham,Meat and Seafood,Yes,1,$6.00 ,United States,Meat Co.
+Honey,Snacks and Sweets,No,1,$3.00 ,United States,Snacks Co.
+Ice Cream,Snacks and Sweets,Yes,1,$4.00 ,United States,Snacks Co.
+Lemon,Fruits and Vegetables,No,0.2,$0.40 ,United States,Citrus Farms
+Oatmeal,Bakery and Grains,No,1,$2.00 ,United States,Bakery Co.
+Oranges,Fruits and Vegetables,No,1,$1.00 ,United States,Citrus Farms
+Pancake Mix,Bakery and Grains,No,1,$2.50 ,United States,Bakery Co.
+Peaches,Fruits and Vegetables,Yes,1,$1.20 ,United States,Fruit Co.
+Peanut Butter,Snacks and Sweets,No,1,$3.00 ,United States,Snacks Co.
+Peas,Fruits and Vegetables,Yes,1,$1.50 ,United States,Veggie Co.
+Pork Chops,Meat and Seafood,Yes,1,$4.00 ,United States,Meat Co.
+Poultry,Meat and Seafood,Yes,1,$3.50 ,United States,Meat Co.
+Pumpkin,Fruits and Vegetables,Yes,1,$2.00 ,United States,Veggie Co.
+Raspberries,Fruits and Vegetables,Yes,0.5,$3.00 ,United States,Fruit Co.
+Shrimp,Meat and Seafood,Yes,1,$6.00 ,United States,Seafood Co.
+Strawberries,Fruits and Vegetables,Yes,1,$3.00 ,United States,Fruit Co.
+Sweet Potatoes,Fruits and Vegetables,No,1,$1.50 ,United States,Veggie Co.
+Tuna,Meat and Seafood,Yes,0.5,$2.00 ,United States,Seafood Co.
+Turkey,Meat and Seafood,Yes,1,$3.50 ,United States,Poultry Farms
+Watermelon,Fruits and Vegetables,Yes,10,$5.00 ,United States,Fruit Co.
+Almonds,Miscellaneous,No,1,$4.00 ,United States,Nut Co.
+Asparagus,Fruits and Vegetables,Yes,1,$2.00 ,United States,Veggie Co.
+Beef Jerky,Meat and Seafood,No,0.25,$3.00 ,United States,Meat Co.
+Black Beans,Canned and Packaged Goods,No,1,$1.50 ,United States,Bean Co.
+Bread Crumbs,Canned and Packaged Goods,No,0.5,$2.00 ,United States,Bakery Co.
+Cake Mix,Snacks and Sweets,No,1,$3.00 ,United States,Snacks Co.
+Cantaloupe,Fruits and Vegetables,Yes,3,$3.00 ,United States,Fruit Co.
+Cauliflower,Fruits and Vegetables,Yes,1,$2.00 ,United States,Veggie Co.
+Chicken Thighs,Meat and Seafood,Yes,1,$3.50 ,United States,Poultry Farms
+Clams,Meat and Seafood,Yes,1,$7.00 ,United States,Seafood Co.
+Cottage Cheese,Dairy and Eggs,Yes,1,$2.00 ,United States,Dairy Co.
+Crab,Meat and Seafood,Yes,1,$10.00 ,United States,Seafood Co.
+Doughnuts,Snacks and Sweets,Yes,0.1,$1.50 ,United States,Snacks Co.
+Eggplant,Fruits and Vegetables,No,1,$1.00 ,United States,Veggie Co.
+English Muffins,Bakery and Grains,Yes,1,$2.00 ,United States,Bakery Co.
+Fish Fillets,Meat and Seafood,Yes,1,$6.00 ,United States,Seafood Co.
+Grape Jelly,Canned and Packaged Goods,Yes,1,$3.00 ,United States,Snacks Co.
+Green Beans,Fruits and Vegetables,Yes,1,$2.00 ,United States,Veggie Co.
+Green Onions,Fruits and Vegetables,Yes,0.2,$0.80 ,United States,Veggie Co.
+Kale,Fruits and Vegetables,Yes,0.5,$2.00 ,United States,Veggie Co.
+Ketchup,Condiments and Spices,Yes,1,$2.00 ,United States,Condiment Co.
+Kidney Beans,Canned and Packaged Goods,No,1,$1.50 ,United States,Bean Co.
+Lemonade,Beverages,Yes,8.6,$2.50 ,United States,Beverage Co.
+Lobster,Meat and Seafood,Yes,1,$12.00 ,United States,Seafood Co.
+Marshmallows,Snacks and Sweets,No,0.25,$1.50 ,United States,Snacks Co.
+Mashed Potatoes,Miscellaneous,Yes,1,$2.50 ,United States,Frozen Co.
+Mussels,Meat and Seafood,Yes,1,$6.00 ,United States,Seafood Co.
+Nectarines,Fruits and Vegetables,Yes,1,$1.20 ,United States,Fruit Co.
+Peanuts,Miscellaneous,No,1,$3.50 ,United States,Nut Co.
+Pear,Fruits and Vegetables,Yes,1,$1.50 ,United States,Fruit Co.
+Pecans,Miscellaneous,No,1,$6.00 ,United States,Nut Co.
+Pickles,Condiments and Spices,Yes,1,$3.00 ,United States,Condiment Co.
+Plums,Fruits and Vegetables,Yes,1,$1.20 ,United States,Fruit Co.
+Pork Ribs,Meat and Seafood,Yes,1,$6.00 ,United States,Meat Co.
+Portobello Mushrooms,Fruits and Vegetables,Yes,1,$3.00 ,United States,Veggie Co.
+Radishes,Fruits and Vegetables,Yes,1,$1.00 ,United States,Veggie Co.
+Raisins,Snacks and Sweets,Yes,1,$2.00 ,United States,Fruit Co.
+Red Beans,Canned and Packaged Goods,No,1,$1.50 ,United States,Bean Co.
+Red Bell Pepper,Fruits and Vegetables,Yes,1,$1.00 ,United States,Veggie Co.
+Roast Beef,Meat and Seafood,Yes,1,$7.00 ,United States,Meat Co.
+Scallops,Meat and Seafood,Yes,1,$10.00 ,United States,Seafood Co.
+Sour Cream,Dairy and Eggs,Yes,1,$2.00 ,United States,Dairy Co.
+Squash,Fruits and Vegetables,Yes,1,$1.20 ,United States,Veggie Co.
+Steak,Meat and Seafood,Yes,1,$8.00 ,United States,Meat Co.
+Sugar,Snacks and Sweets,No,1,$2.00 ,United States,Snacks Co.
+Sunflower Seeds,Snacks and Sweets,No,1,$3.00 ,United States,Nut Co.
+Tangerines,Fruits and Vegetables,Yes,1,$1.00 ,United States,Fruit Co.
+Tartar Sauce,Condiments and Spices,Yes,1,$2.50 ,United States,Condiment Co.
+Tofu,Miscellaneous,Yes,1,$3.00 ,United States,Tofu Co.
+Trout,Meat and Seafood,Yes,1,$7.00 ,United States,Seafood Co.
+Turkey Bacon,Meat and Seafood,Yes,1,$3.00 ,United States,Meat Co.
+Turnips,Fruits and Vegetables,No,1,$0.80 ,United States,Veggie Co.
+Vegan Cheese,Dairy and Eggs,Yes,1,$4.00 ,United States,Dairy Co.
+Veggie Burgers,Frozen Foods,Yes,1,$3.00 ,United States,Frozen Co.
+Walnuts,Miscellaneous,No,1,$5.00 ,United States,Nut Co.
+Watercress,Fruits and Vegetables,Yes,0.5,$1.50 ,United States,Veggie Co.
+Wheat Bread,Bakery and Grains,"No (until opened, then yes)",1,$2.00 ,United States,Bakery Co.
+White Beans,Canned and Packaged Goods,No,1,$1.50 ,United States,Bean Co.
+White Rice,Canned and Packaged Goods,No,1,$1.00 ,United States,Rice Co.
+Whole Wheat Flour,Bakery and Grains,No,1,$2.00 ,United States,Bakery Co.
+Wild Rice,Canned and Packaged Goods,No,1,$5.00 ,United States,Rice Co.
+Yogurt-covered Pretzels,Snacks and Sweets,No,0.5,$2.50 ,United States,Snacks Co.
+Zucchini,Fruits and Vegetables,Yes,1,$1.20 ,United States,Veggie Co.
